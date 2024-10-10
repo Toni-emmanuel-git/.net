@@ -1,2 +1,1 @@
-# API MOVIES C#
-Backend develop in .net
+Backend develop in C#
