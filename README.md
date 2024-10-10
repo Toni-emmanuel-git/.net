@@ -1,2 +1,2 @@
 # .net
-projects code in c#
+Backend develop in .net
